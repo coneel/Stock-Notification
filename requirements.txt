@@ -1,0 +1,6 @@
+pylint
+boto3
+yfinance
+pandas
+numpy
+datetime
